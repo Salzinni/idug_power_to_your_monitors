@@ -9,5 +9,6 @@ This is a repository that contains examples used in IDUG and RUG presentations:
 - From Db2 to Data Science
 - Power to your monitors
 
+NOTE: Folder under name "Power to your monitors" contains all examples for both presentations in ENGLISH.
 
 
